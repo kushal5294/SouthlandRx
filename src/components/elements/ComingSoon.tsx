@@ -2,12 +2,12 @@ import React from "react";
 import { darkBlue } from "../../utils/constants";
 
 export const ComingSoon: React.FC = () => {
-  const text = "🎉 Now Open 🎉";
+  const text = "Coming Soon";
 
   return (
     <>
       <div
-        className="relative bg-red-600 text-white overflow-hidden py-3 mb-6"
+        className="relative bg-red-600 text-white overflow-hidden py-3 mb-6 mt-6"
         style={{ backgroundColor: darkBlue }}
       >
         <div className="flex animate-scroll-left whitespace-nowrap">
