@@ -30,7 +30,7 @@ export const Footer = () => {
               alt="Southland Pharmacy Logo"
             />
             <div className=" text-base lg:text-base" style={{ color: red }}>
-              © Southland Rx 2026
+              © Southland Rx {new Date().getFullYear()}
             </div>
           </div>
 
