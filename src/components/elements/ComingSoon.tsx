@@ -7,7 +7,7 @@ export const ComingSoon: React.FC = () => {
   return (
     <>
       <div
-        className="relative bg-red-600 text-white overflow-hidden py-3 mb-6 mt-6"
+        className="relative bg-red-600 text-white overflow-hidden py-3 mb-6 mt-5"
         style={{ backgroundColor: darkBlue }}
       >
         <div className="flex animate-scroll-left whitespace-nowrap">
