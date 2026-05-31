@@ -47,7 +47,7 @@ export const SpecialPackaging = () => {
                 When you are a senior or someone with a medical condition,
                 taking multiple medications becomes a part of life. That’s why{" "}
                 <span style={{ color: darkBlue }} className="font-bold">
-                  Wayne Rx Drugs
+                  Southland Pharmacy
                 </span>{" "}
                 proudly offers{" "}
                 <span style={{ color: darkBlue }} className="font-bold">
@@ -110,7 +110,7 @@ export const SpecialPackaging = () => {
             <div className="h-full flex">
               <img
                 src="assets/logos/dispill-flyer.png"
-                alt="Dispill and Wayne Rx Flyer."
+                alt="Dispill and Southland Pharmacy Flyer."
                 className="w-full h-full object-contain object-center scale-100"
               />
             </div>

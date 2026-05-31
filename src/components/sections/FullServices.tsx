@@ -15,8 +15,8 @@ export const FullServices = () => {
             Our services are designed to enhance your quality of life.
           </Title>
           <Paragraph>
-            At Wayne Rx Drugs, we are dedicated to improving the health of the
-            Wayne, Michigan community. Through personalized services, affordable
+            At Southland Pharmacy, we are dedicated to improving the health of the
+            Taylor, Michigan community. Through personalized services, affordable
             products, and a compassionate staff, we provide the support you need
             to enhance your health and wellness.
           </Paragraph>

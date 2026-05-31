@@ -5,10 +5,10 @@ export const SpecialPackage = () => {
   return (
     <>
       <Helmet>
-        <title>Special Packaging - Wayne Rx Drugs</title>
+        <title>Special Packaging - Southland Pharmacy</title>
         <meta
           name="description"
-          content="Learn about our special packaging services in Wayne, Michigan to help manage your medications safely and effectively. Ideal for multi-dose regimens."
+          content="Learn about our special packaging services in Taylor, Michigan to help manage your medications safely and effectively. Ideal for multi-dose regimens."
         />
       </Helmet>
       <Banner text="Special Packaging" />

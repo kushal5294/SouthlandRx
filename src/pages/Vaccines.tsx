@@ -5,10 +5,10 @@ export const Vaccines = () => {
   return (
     <>
       <Helmet>
-        <title>Vaccines - Wayne Rx Drugs</title>
+        <title>Vaccines - Southland Pharmacy</title>
         <meta
           name="description"
-          content="Learn about how you can get safely vaccinated in Wayne, MI."
+          content="Learn about how you can get safely vaccinated in Taylor, MI."
         />
       </Helmet>
       <Banner text="Vaccines" />

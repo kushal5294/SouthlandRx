@@ -34,14 +34,14 @@ export const Hero = () => {
                 color: isSmall ? red : undefined,
               }}
             >
-              Wayne Rx Drugs
+              Southland Pharmacy
             </span>
           </h1>
 
           <Paragraph className="mt-5">
             You need a pharmacy that does more than filling your prescriptions.
             You deserve a pharmacy that looks out for you. At our pharmacy in
-            Wayne, Michigan, we operate with your health as our number one
+            Taylor, Michigan, we operate with your health as our number one
             priority. Browse the rest of our website to learn how we can help
             you.
           </Paragraph>
@@ -66,7 +66,7 @@ export const Hero = () => {
           {/* Hero Image on top */}
           <img
             src="/waynerx-storefront.jpeg"
-            alt="Wayne Rx Drugs Storefront"
+            alt="Southland Pharmacy Storefront"
             width={2350}
             height={2359}
             className="lg:absolute lg:w-full lg:h-full rounded-3xl object-cover lg:max-h-none object-[center_35%]  z-20"

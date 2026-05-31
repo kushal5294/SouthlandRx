@@ -6,10 +6,10 @@ export const Resources = () => {
   return (
     <>
       <Helmet>
-        <title>Resources - Wayne Rx Drugs</title>
+        <title>Resources - Southland Pharmacy</title>
         <meta
           name="description"
-          content="Explore useful resources to guide your medical journey in Wayne, Michigan."
+          content="Explore useful resources to guide your medical journey in Taylor, Michigan."
         />
       </Helmet>
       <Banner text="Resources" />

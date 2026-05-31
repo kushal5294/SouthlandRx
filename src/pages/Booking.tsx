@@ -9,10 +9,10 @@ export const Booking = () => {
   return (
     <>
       <Helmet>
-        <title>Book an Appointment - Wayne Rx Drugs</title>
+        <title>Book an Appointment - Southland Pharmacy</title>
         <meta
           name="description"
-          content="Schedule your vaccination appointment at Wayne Rx in Wayne, Michigan. Use our simple online form to request a date and time that works for you."
+          content="Schedule your vaccination appointment at Southland Pharmacy in Taylor, Michigan. Use our simple online form to request a date and time that works for you."
         />
       </Helmet>
       <Banner text="Book An Appointment" />
@@ -22,7 +22,7 @@ export const Booking = () => {
             <Paragraph>
               Your health is our priority at{" "}
               <span style={{ color: darkBlue }} className="font-bold">
-                Wayne Rx Drugs
+                Southland Pharmacy
               </span>
               . Please use the form below to request your vaccination
               appointment. After you submit your details, a member of our team

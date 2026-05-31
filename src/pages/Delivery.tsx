@@ -9,10 +9,10 @@ export const Delivery = () => {
   return (
     <>
       <Helmet>
-        <title>Delivery Services - Wayne Rx Drugs</title>
+        <title>Delivery Services - Southland Pharmacy</title>
         <meta
           name="description"
-          content="Get your medications delivered to your doorstep. Wayne Rx offers convenient and reliable prescription delivery services."
+          content="Get your medications delivered to your doorstep. Southland Pharmacy offers convenient and reliable prescription delivery services."
         />
       </Helmet>
       <Banner text="Delivery Services" />
@@ -23,7 +23,7 @@ export const Delivery = () => {
               Don’t have the time to personally pick up your medicines? Not a
               problem! For your convenience,{" "}
               <span style={{ color: darkBlue }} className="font-bold">
-                Wayne Rx Drugs
+                Southland Pharmacy
               </span>{" "}
               can deliver your medications directly to your doorstep. To get
               started, please fill out the form provided.

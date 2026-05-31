@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "../shared/Container";
-import logo from "/assets/logos/WayneRxLogo.svg";
+import logo from "/assets/logos/SouthlandRxLogo.svg";
 import { navItems } from "./Navbar";
 import { NavItem } from "../shared/NavItem";
 import { red } from "../../utils/constants";
@@ -27,10 +27,10 @@ export const Footer = () => {
             <img
               src={logo}
               className="w-50 lg:w-60"
-              alt="Wayne Rx Drugs Logo"
+              alt="Southland Pharmacy Logo"
             />
             <div className=" text-base lg:text-base" style={{ color: red }}>
-              © Wayne Rx 2026
+              © Southland Rx 2026
             </div>
           </div>
 

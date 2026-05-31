@@ -119,7 +119,7 @@ export const ContactInfo = () => {
             {/* Google Map */}
             <div className="relative w-full h-[250px] md:h-[280px] md:col-span-1">
               <iframe
-                src="https://maps.google.com/maps?q=34815+W+Michigan+Ave+Ste+B,+Wayne,+MI+48184&output=embed&z=17"
+                src="https://maps.google.com/maps?q=34815+W+Michigan+Ave+Ste+B,+Taylor,+MI+48184&output=embed&z=17"
                 className="w-full h-full rounded-2xl"
                 loading="lazy"
               ></iframe>
