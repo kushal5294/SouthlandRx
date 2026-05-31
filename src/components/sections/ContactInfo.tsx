@@ -58,11 +58,11 @@ export const ContactInfo = () => {
                 </svg>
                 <div>
                   <p>
-                    Call: <a href="tel:7346294336">734-629-4336</a>
+                    Call: <a href="tel:7343983989">734-398-3989</a>
                   </p>
 
                   <p>
-                    Fax: <a href="tel:7344695219">734-469-5219</a>
+                    Fax: <a href="tel:7346365882">734-636-5882</a>
                   </p>
                 </div>
               </div>
