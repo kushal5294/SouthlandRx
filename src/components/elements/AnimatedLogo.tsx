@@ -6,6 +6,17 @@ export const AnimatedLogo = () => {
         xmlns="http://www.w3.org/2000/svg"
         className="w-full h-auto"
       >
+        <style>
+          {`
+            @keyframes sweep-motion {
+              0% { transform: translateX(-800px); }
+              100% { transform: translateX(2500px); }
+            }
+            .sweep-animation {
+              animation: sweep-motion 2s linear infinite;
+            }
+          `}
+        </style>
         <defs>
           {/* Mask that punches holes for the transparent cutouts */}
           <mask id="cutouts">
@@ -66,14 +77,13 @@ export const AnimatedLogo = () => {
 
           {/* Mask that animates an invisible rectangle across the viewBox */}
           <mask id="sweep-mask">
-            <rect y="-800" width="600" height="2000" fill="url(#sweep-grad)">
-              <animate
-                attributeName="x"
-                values="-800;2500"
-                dur="2s"
-                repeatCount="indefinite"
-              />
-            </rect>
+            <rect
+              y="-800"
+              width="600"
+              height="2000"
+              fill="url(#sweep-grad)"
+              className="sweep-animation"
+            />
           </mask>
         </defs>
 
